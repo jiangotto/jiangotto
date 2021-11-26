@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=jiangotto)
+
 ![](https://github-readme-stats.vercel.app/api?username=jiangotto)
 
